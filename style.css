@@ -1,8 +1,66 @@
-h1{
+*{
 
-font-size: 50px;
-color: black;
-font-family: 'Pacifico', cursive;
+margin: 0px;
+padding: 0px;
 
 
 }
+
+
+body{
+
+background-color: beige;
+
+
+
+}
+
+.titulo{
+
+
+    font-family: 'Pacifico', cursive;
+    color: white;
+
+
+
+}
+
+
+
+.conteudo{
+
+
+float: right;
+background-color: brown;
+padding: 100px;
+border-radius: 50px;
+height: 400px;
+margin-right: 20px;
+margin-top: 10px;
+
+
+
+}
+
+input{
+
+    display: block;
+    padding: 5px;
+    margin: 100px;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin: auto;
+    
+    
+    }
+
+
+
+#botao{
+
+text-align: center;
+padding: 10px;
+
+
+}    
+    
