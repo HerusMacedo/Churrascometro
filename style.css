@@ -54,13 +54,29 @@ input{
     
     }
 
+button{
 
+width: 180px;    
+padding: 10px;
+font-family: 'Pacifico', cursive;
+background-color: beige;
+
+}
 
 #botao{
 
-text-align: center;
-padding: 10px;
-
-
-}    
+        text-align: center;
+         padding: 10px;
+        
+        
+        
+        }    
     
+#resultado{
+
+    font-family: 'Pacifico', cursive;
+    color: beige;
+    font-size:25px;
+    text-align: center;
+
+}
