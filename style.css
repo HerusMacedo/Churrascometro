@@ -13,12 +13,24 @@ body{
 
 }
 
+.titulop{
+
+
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin: 10px;
+
+}
+
+
 .titulo{
 
 
     font-family: 'Pacifico', cursive;
     color: white;
-
+    text-align: center;
+   
 
 
 }
@@ -28,13 +40,14 @@ body{
 .conteudo{
 
 
-float: right;
+
 background-color: brown;
 padding: 100px;
 border-radius: 50px;
-height: 400px;
-margin-right: 20px;
-margin-top: 10px;
+height: 320px;
+margin: auto;
+max-width: 400px;
+
 
 
 
